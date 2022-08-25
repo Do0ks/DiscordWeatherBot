@@ -1,5 +1,5 @@
 #When the guild pictures change, they print out the image name. So, if you have a cloudy weather image, name your gif "weather has turned cloudy.gif". 
-#When line 30 is called it will post the gif name to the chat.
+#When line 30 is called it will post the gif name to the chat. To start bot, run command `~weather`
 
 from discord.ext import commands
 import asyncio
